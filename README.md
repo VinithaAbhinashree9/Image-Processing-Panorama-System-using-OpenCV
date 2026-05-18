@@ -4,12 +4,6 @@
 
  Image Processing & Panorama Creation System using Python, OpenCV, and NumPy with thresholding, noise removal, edge detection, feature detection, and panorama stitching.
 
----
-
-# README.md for Q2
-
-```markdown
-#  Image Processing & Panorama System
 
 A Computer Vision project developed using Python, OpenCV, and NumPy that performs advanced image processing operations and panorama stitching.
 
